@@ -1,0 +1,104 @@
+/* theme.css */
+@import "tailwindcss";
+
+@theme {
+  /* ================== Colors ================== */
+  --color-purple-1: #8951FF;
+  --color-sky: #21C3FC;
+  --color-blue-1: #0E43FB;
+
+  --color-neutral-8: #081028;
+  --color-neutral-7: #0A1330;
+  --color-neutral-6: #0B1739;
+  --color-neutral-5: #7E89AC;
+  --color-neutral-4: #AEB9E1;
+  --color-neutral-3: #D1DBF9;
+  --color-neutral-2: #D9E1FA;
+  --color-neutral-1: #FFFFFF;
+
+  --color-primary-1: #CB3CFF;
+
+  --color-secondary-1: #0B1739;
+  --color-secondary-2: #9A91FB;
+  --color-secondary-3: #00C2FF;
+  --color-secondary-4: #343B4F;
+  --color-secondary-5: #FDB52A;
+
+  --color-blue-4: #086CD9;
+  --color-blue-3: #1D88FE;
+  --color-blue-2: #8FC3FF;
+  --color-blue-1: #EAF4FF;
+
+  --color-green-4: #11845B;
+  --color-green-3: #05C168;
+  --color-green-2: #7FDCA4;
+  --color-green-1: #DEF2E6;
+
+  --color-red-4: #DC2B2B;
+  --color-red-3: #FF5A65;
+  --color-red-2: #FFBEC2;
+  --color-red-1: #FFEFF0;
+
+  --color-orange-4: #D5691B;
+  --color-orange-3: #FF9E2C;
+  --color-orange-2: #FFD19B;
+  --color-orange-1: #FFF3E4;
+
+  --color-purple-10: #575DFF;
+  --color-purple-50: #575DFF;
+
+  --color-blue-50: #1D88FE;
+  --color-skyblue-50: #57C3FF;
+  --color-red-50: #FF5A65;
+  --color-gray-50: #AEB9E1;
+  --color-green-50: #05C168;
+  --color-yellow-50: #FFB016;
+
+  --color-overlay-60: #000000;
+  --color-overlay-40: #000000;
+
+  --color-illustration-orange-100: #FFE3D3;
+  --color-illustration-orange-200: #E8AD8C;
+  --color-illustration-blue-dark-100: #27266A;
+  --color-illustration-purple-light: #DBD8FF;
+
+  /* ================== Font Sizes ================== */
+  --text-display-1: 1rem;
+  --text-display-2: 0.73rem;
+  --text-display-3: 0.54rem;
+  --text-display-4: 0.46rem;
+
+  --text-heading-1: 0.54rem;
+  --text-heading-2: 0.46rem;
+  --text-heading-3: 0.42rem;
+  --text-heading-4: 0.31rem;
+  --text-heading-5: 0.27rem;
+  --text-heading-6: 0.23rem;
+
+  --text-paragraph-lg: 0.31rem;
+  --text-paragraph: 0.23rem;
+  --text-paragraph-sm: 0.19rem;
+
+  --text-400: 0.38rem;
+  --text-300: 0.31rem;
+  --text-200: 0.27rem;
+  --text-100: 0.23rem;
+  --text-50: 0.19rem;
+  --text-25: 0.15rem;
+
+  --text-uppercase-400: 0.38rem;
+  --text-uppercase-300: 0.31rem;
+  --text-uppercase-200: 0.27rem;
+   --text-uppercase-100: 0.23rem;
+
+  --text-rich-bold: 0.23rem;
+  --text-rich-link: 0.31rem;
+
+  /* ================== Shadows ================== */
+  --shadow-general-01: 1px 1px 1px rgba(16, 25, 52, 0.4);
+  --shadow-general-02: 0px 2px 12px rgba(1, 5, 17, 0.12);
+  --shadow-general-03: 0px 8px 28px rgba(1, 5, 17, 0.3);
+  --shadow-general-04: 0px 14px 42px rgba(20, 20, 43, 0.14);
+  --shadow-general-05: 0px 24px 65px rgba(20, 20, 43, 0.16);
+  --shadow-general-06: 0px 32px 72px rgba(20, 20, 43, 0.24);
+}

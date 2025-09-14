@@ -1,0 +1,109 @@
+@import "./assets/theme.css";
+
+:root {
+  /* Color styles */
+--8951-f-f: #8951FF;
+--21-c3-f-c: #21C3FC;
+--0-e43-f-b: #0E43FB;
+--neutral--colors--800: #081028;
+--neutral--colors--700: #0A1330;
+--neutral--colors--600: #0B1739;
+--neutral--colors--500: #7E89AC;
+--neutral--colors--400: #AEB9E1;
+--neutral--colors--300: #D1DBF9;
+--neutral--colors--200: #D9E1FA;
+--neutral--colors--100: #FFFFFF;
+--primary--colors---color-1: #CB3CFF;
+--secondary--colors---color-1: #0B1739;
+--secondary--colors---color-2: #9A91FB;
+--secondary--colors---color-3: #00C2FF;
+--secondary--colors---color-4: #343B4F;
+--secondary--colors---color-5: #FDB52A;
+--system--colors---blue-400: #086CD9;
+--system--colors---blue-300: #1D88FE;
+--system--colors-----blue-200: #8FC3FF;
+--system--colors-----blue-100: #EAF4FF;
+--system--colors---green-400: #11845B;
+--system--colors---green-300: #05C168;
+--system--colors-----green-200: #7FDCA4;
+--system--colors-----green-100: #DEF2E6;
+--system--colors-----red-400: #DC2B2B;
+--system--colors---red-300: #FF5A65;
+--system--colors-----red-200: #FFBEC2;
+--system--colors-----red-100: #FFEFF0;
+--system--colors-----orange-400: #D5691B;
+--system--colors-----orange-300: #FF9E2C;
+--system--colors-----orange-200: #FFD19B;
+--system--colors-----orange-100: #FFF3E4;
+--other---purple-100: #575DFF;
+--other---purple-50: #575DFF;
+--other---blue-50: #1D88FE;
+--other---sky--blue-50: #57C3FF;
+--other---red-50: #FF5A65;
+--other---gray-50: #AEB9E1;
+--other---green-50: #05C168;
+--other---yellow-50: #FFB016;
+--other-----overlay-60: #000000;
+--other-----overlay-40: #000000;
+--illustrations-----orange-100: #FFE3D3;
+--illustrations-----orange-200: #E8AD8C;
+--illustrations-----blue--dark-100: #27266A;
+--illustrations-----purple--light: #DBD8FF;
+
+/* Text-size styles */
+/* base size: special--headings---display-1 (52px) */
+--special--headings---display-1: 1rem;
+--special--headings---display-2: 0.73rem;
+--special--headings---display-3: 0.54rem;
+--special--headings---display-4: 0.46rem;
+--headings---typography--size-1: 0.54rem;
+--headings---typography--size-2: 0.46rem;
+--headings---typography--size-3: 0.42rem;
+--headings---typography--size-4: 0.31rem;
+--headings---typography--size-5: 0.27rem;
+--headings---typography--size-6: 0.23rem;
+--paragraph---large: 0.31rem;
+--paragraph---default: 0.23rem;
+--paragraph---small: 0.19rem;
+--text--single--400---regular: 0.38rem;
+--text--single--400---medium: 0.38rem;
+--text--single--400---bold: 0.38rem;
+--text--single--300---regular: 0.31rem;
+--text--single--300---medium: 0.31rem;
+--text--single--300---bold: 0.31rem;
+--text--single--200---regular: 0.27rem;
+--text--single--200---medium: 0.27rem;
+--text--single--200---bold: 0.27rem;
+--text--single--100---regular: 0.23rem;
+--text--single--100---medium: 0.23rem;
+--text--single--100---bold: 0.23rem;
+--text--single--50---regular: 0.19rem;
+--text--single--50---medium: 0.19rem;
+--text--single--50---bold: 0.19rem;
+--text--single--25---regular: 0.15rem;
+--text--single--25---medium: 0.15rem;
+--text--single--25---bold: 0.15rem;
+--text--single--uppercase--400---regular: 0.38rem;
+--text--single--uppercase--400---medium: 0.38rem;
+--text--single--uppercase--400---bold: 0.38rem;
+--text--single--uppercase--300---regular: 0.31rem;
+--text--single--uppercase--300---medium: 0.31rem;
+--text--single--uppercase--300---bold: 0.31rem;
+--text--single--uppercase--200---regular: 0.27rem;
+--text--single--uppercase--200---medium: 0.27rem;
+--text--single--uppercase--200---bold: 0.27rem;
+--text--single--uppercase--100---regular: 0.23rem;
+--text--single--uppercase--100---bold: 0.23rem;
+--text--single--uppercase--100---medium: 0.23rem;
+--rich--text---bold: 0.23rem;
+--rich--text---link--text: 0.31rem;
+
+/* Effect styles */
+--general---shadow-01:  1px 1px 1px rgba(16, 25, 52, 0.4);
+--general---shadow-02:  0px 2px 12px rgba(1, 5, 17, 0.12);
+--general---shadow-03:  0px 8px 28px rgba(1, 5, 17, 0.3);
+--general---shadow-04:  0px 14px 42px rgba(20, 20, 43, 0.14);
+--general---shadow-05:  0px 24px 65px rgba(20, 20, 43, 0.16);
+--general---shadow-06:  0px 32px 72px rgba(20, 20, 43, 0.24);
+
+}
