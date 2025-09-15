@@ -107,3 +107,36 @@
 --general---shadow-06:  0px 32px 72px rgba(20, 20, 43, 0.24);
 
 }
+
+
+#app-dashboard {
+  width: 100vw;
+  height: 100vh;
+  color: var(--color-neutral-1);
+  background-color: var(--neutral--colors--800);
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1.17rem;
+  font-weight: bold;
+}
+h4 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+h5 {
+  font-size: 0.83rem;
+  font-weight: bold;
+}
+h6 {
+  font-size: 0.67rem;
+  font-weight: bold;
+}
